@@ -2,7 +2,7 @@
 
 Hi! I'm Kyle, a self-sufficient Software Engineer who is able to work independently as well as in a team environment.
 
-I love coding. Because I really like to provide services to other people. I feel rewarded when users work efficiently through the service I created.
+I love coding because I really like to provide services to other people. I feel rewarded when users work efficiently through the service I created.
 
 ## Technologies 💻
 
