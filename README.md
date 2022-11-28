@@ -1,8 +1,7 @@
 # Hi there! 👋
 
-Hi! I'm Kyle, a self-sufficient Software Engineer who is able to work independently as well as in a team environment.
-
-I love coding because I really like to provide services to other people. I feel rewarded when users work efficiently through the service I created.
+Hi! I'm Kyle,
+A full-stack web developer with 6+ years of experience. I have been implementing a loan pipeline with LOS in Mortgage Finance Industry. In E-commerce, developed CRM, WMS, created invoices and technician schedule management application. As a developer, I’m trying to optimize data with minimal time to develop software that reduces an error, easier to manage, and more efficient. I’m a fast-learner who enjoy to learn and challenge myself to maximize my ability.
 
 ## Technologies 💻
 
