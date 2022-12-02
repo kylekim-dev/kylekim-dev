@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 Hi! I'm Kyle,
-A full-stack web developer with 6+ years of experience. I have been implementing a loan pipeline with LOS in Mortgage Finance Industry. In E-commerce, developed CRM, WMS, created invoices and technician schedule management application. As a developer, I’m trying to optimize data with minimal time to develop software that reduces an error, easier to manage, and more efficient. I’m a fast-learner who enjoy to learn and challenge myself to maximize my ability.
+I am a Full-Stack developer for over 6 years. I have experienced in Financial Institute and E-commerce. In E-Commerce, I have experienced in developing CRM, WMS included inventory system, Filter management System, Technician Scheduling system, Automated invoicing system, API with payment systems(Stripe, PayPal, and Athorized.net) and 10+ responsive B2B & B2C website. In Financial Institute, I have experienced in developing LOS, Pipeline, and Intranet. I like the excitement of working in a faced paced environment and am very adaptable to change. I am always maintaining a positive and solution oriented approach and an active listener with the ability to focus on the requirements. As a team member, I bring strong git workflow practices and experience sing agile to build software in a collaborative environment.
 
 ## Technologies 💻
 
